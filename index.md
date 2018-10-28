@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-![freqs](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
 I study how social organisation of ants evolved, from field collection to whole-genome variants.
 
+![freqs](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
