@@ -10,8 +10,8 @@ permalink: /cv/
 
 
 ### Talks & posters
-- Sept 2018: invited talk for Ramírez's group, UC Davis, California (USA).
-- Sept 2018: invited talk at Social Insect Research Group, Arizona State University, Arizona (USA).
+- Sept 2018: invited talk for Ramírez's group, UC Davis, California (USA)
+- Sept 2018: invited talk at Social Insect Research Group, Arizona State University, Arizona (USA)
 - Sept 2018: talk at NERC DTP conference _A Changing Planet_, in London
 - Aug 2018: poster at joint _ESEB_ and _Evolution_ conference, in Montpellier (France)
 - Aug 2018: talk at _IUSSI Brazil_, in Guaruja (Brazil)
@@ -25,16 +25,16 @@ permalink: /cv/
 
  
 ### Grants, honours & awards
-- 2018: Fieldwork grant from QMUL PostGraduate Research Fund to sample ants in Arizona and California - £1200
-- 2018: Travel grant from IUSSI North-Western Section to organise a symposium at IUSSI Brazil 2018 (2018, Brazil) – £1000
-- 2018: Travel grant from Royal Entomological Society to organise a symposium at IUSSI Brazil 2018 (2018, Brazil) - £450
-- 2018: Travel grant from Royal Society of Biology to organise a symposium at IUSSI Brazil 2018 (2018, Brazil) - £500
-- 2017: Conference grant from Genetics Society to give a talk at PopGroup (2018, Bristol) - £150
-- 2017: Conference grant from Genetics Society to present a poster at ESEB (2017, Netherlands) - £624
+- 2018: QMUL PostGraduate Research Fund for Arizona &  California fieldtrip - £1200
+- 2018: IUSSI North-Western Section grant to organise a symposium at IUSSI Brazil – £1000
+- 2018: Royal Entomological Society grant to organise a symposium at IUSSI Brazil - £450
+- 2018: Royal Society of Biology grant to organise a symposium at IUSSI Brazil - £500
+- 2017: Genetics Society grant to give a talk at PopGroup - £150
+- 2017: Genetics Society grant to present a poster at ESEB - £624
 - 2015: PhD Scholarship from London NERC DTP - £7500
-- 2014: Conference Grant from Royal Entomological Society to present a poster at 2nd Young Natural History Scientists’ Meeting (2014, France)
-- 2013: Scholarship awarded from Entente Cordiale to study a Masters of Research
-- 2013: Study grant from Ruby and Will George Trust to study a Masters of Research
+- 2014: Royal Entomological Society grant to present a poster at 2nd Young Natural History Scientists’ Meeting (2014, France)
+- 2013: Scholarship awarded from Entente Cordiale (Masters of Research)
+- 2013: Study grant from Ruby and Will George Trust (Masters of Research)
  
 
 ### Outreach
