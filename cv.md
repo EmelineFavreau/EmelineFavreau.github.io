@@ -20,6 +20,7 @@ permalink: /cv/
 - Jan 2017: The genetic architecture of a Mediterranean ant, talk at 50th Population Genetics Group Meeting, in Cambridge
 - Dec 2016: The genetic architecture of a Mediterranean ant, talk at North-West section of IUSSI Winter Meeting, in London
 - Sept 2016: Current PhD research, poster at NERC DTP conference Perspectives on Environmental Change, in London
+
  
 ### Grants, honours & awards
 - 2018: Fieldwork grant from QMUL PostGraduate Research Fund to sample ants in Arizona and California - £1200
