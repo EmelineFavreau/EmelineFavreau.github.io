@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-### Evolutionary Biologist finishing soon her PhD
+
 I study how social organisation of ants evolved, from field collection to whole-genome variants.
 
