@@ -60,7 +60,7 @@ permalink: /cv/
 - 2013: NHM Big Nature Day
 
 
-### Learnt societies member since
+### Learned societies member since
 - 2015: International Union for the Study of Social Insects
 - 2016: Genetics Society
 - 2016: Royal Entomological Society
