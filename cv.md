@@ -19,9 +19,9 @@ permalink: /cv/
    - population genomics
 
 - wet lab skills tailored for sequencing (short and long reads). Depending on needs, I follow established protocols/kits, or design my own:
-   - DNA extraction and QC,
-   - primer selection,
-   - library preparation for microsatellite and whole-genome sequencing (Illumina and MinION).
+   - DNA extraction and QC
+   - primer selection
+   - library preparation for microsatellite and whole-genome sequencing (Illumina and MinION)
 
 
 
