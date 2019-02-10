@@ -51,3 +51,6 @@ permalink: /cv/
 - 2017: Royal Society of Biology
 - 2017: ESEB
 - 2018: Society of Systematics Biologists
+
+### Reviewer for
+- PeerJ
