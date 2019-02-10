@@ -65,7 +65,7 @@ permalink: /cv/
 - 2016: Genetics Society
 - 2016: Royal Entomological Society
 - 2017: Royal Society of Biology
-- 2017: ESEB
+- 2017: European Society of Evolutionary Biology
 - 2018: Society of Systematics Biologists
 
 ### Reviewer for
