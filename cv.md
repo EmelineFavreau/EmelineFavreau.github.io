@@ -9,19 +9,19 @@ permalink: /cv/
 - 2008 - 2011: BSc Environmental Sciences at Oxford Brookes University, Oxford 1st Class (Hons).
 
 ### Technical
-- bioinformatics skills tailored for statistics and variant calling. Depending on needs, analyses conducted on my own computer or high performance computer:
+- Bioinformatics skills tailored for statistics and variant calling. Depending on needs, analyses conducted on my own computer or high performance computer:
    - R statistical package
-   - bash
-   - version control system
-   - de novo genome assembly
-   - variant calling
+   - Bash
+   - Version control system
+   - _De novo_ genome assembly
+   - Variant calling
    - GWAS
-   - population genomics
+   - Population genomics
 
-- wet lab skills tailored for sequencing (short and long reads). Depending on needs, I follow established protocols/kits, or design my own:
+- Wet lab skills tailored for sequencing (short and long reads). Depending on needs, I follow established protocols/kits, or design my own:
    - DNA extraction and QC
-   - primer selection
-   - library preparation for microsatellite and whole-genome sequencing (Illumina and MinION)
+   - Primer selection
+   - Library preparation for microsatellite and whole-genome sequencing (Illumina and MinION)
 
 
 
