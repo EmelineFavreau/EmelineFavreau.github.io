@@ -72,5 +72,6 @@ permalink: /cv/
 ### Reviewer for
 - PeerJ
 
-### Read more
-- [LinkedIn](https://www.linkedin.com/in/emelinefavreau/)
+
+
+_More details on [LinkedIn](https://www.linkedin.com/in/emelinefavreau/)_
