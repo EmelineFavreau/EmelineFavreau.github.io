@@ -6,4 +6,4 @@ layout: home
 ---
 I study how social organisation of ants evolved, which leads me from field collection sites to whole-genome variants.
 
-![freqs](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
+![sampling ants in Arizona desert](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
