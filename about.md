@@ -6,6 +6,7 @@ permalink: /about/
 # Evolution, bioinformatics, genomics & social insects
 
 I am an evolutionary biologist, currently finishing a PhD in ant genomics in London at [Queen Mary University of London](http://www.sbcs.qmul.ac.uk/research/) in [Yannick Wurm's lab](https://wurmlab.github.io/team/efavreau/index.html).
+My PhD project title is _One or multiple ant queens? The genetic architectures underlying convergent evolution of a fundamental social trait_.
 
 I am interested in understanding molecular mechanisms underlying speciation, adaptation, interactions between species.
 
