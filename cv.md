@@ -68,6 +68,7 @@ permalink: /cv/
 - 2017: Royal Society of Biology
 - 2017: European Society of Evolutionary Biology
 - 2018: Society of Systematics Biologists
+- 2019: Society of Molecular Biology and Evolution
 
 ### Reviewer for
 - PeerJ
