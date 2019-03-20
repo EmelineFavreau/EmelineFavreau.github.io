@@ -76,3 +76,4 @@ permalink: /cv/
 
 
 _More details on [LinkedIn](https://www.linkedin.com/in/emelinefavreau/)_
+_[PDF version](https://emelinefavreau.github.io/assets/Emeline_Favreau_cv_2019.pdf)_
