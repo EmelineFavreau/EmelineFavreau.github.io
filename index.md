@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-I study how social organisation of ants evolved, which leads me from field collection sites to whole-genome variants.
+I study how social organisation of ants evolved, which leads me from field collection sites to whole-genome variants. I am within few months of finishing my PhD, with plenty of bioinformatics analyses and writing-up sessions.
 
 ![sampling ants in Arizona desert](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
