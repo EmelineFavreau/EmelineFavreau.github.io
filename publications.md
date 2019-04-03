@@ -10,4 +10,4 @@ Linard, B., Crampton-Platt, A., Moriniere, J., Timmermans, M.J.T.M., Andújar, C
 
 Lyal, C. H. C. and **Favreau, E. A** (2015) [The Rectal Valve in Curculionoidea and other Coleoptera (Insecta)](http://dx.doi.org/10.11646/zootaxa.3926.4.1). _Zootaxa_. 3926 (4):451-479.
 
-See also [Google Scholar](https://scholar.google.co.uk/citations?user=tVKGbegAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Emeline_Favreau2).
+_See also [Google Scholar](https://scholar.google.co.uk/citations?user=tVKGbegAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Emeline_Favreau2)._

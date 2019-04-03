@@ -65,7 +65,6 @@ permalink: /cv/
 - 2015: International Union for the Study of Social Insects
 - 2016: Genetics Society
 - 2016: Royal Entomological Society
-- 2017: Royal Society of Biology
 - 2017: European Society of Evolutionary Biology
 - 2018: Society of Systematics Biologists
 - 2019: Society of Molecular Biology and Evolution
