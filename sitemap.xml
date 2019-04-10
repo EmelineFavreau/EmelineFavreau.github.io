@@ -1,0 +1,63 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+
+    <loc>https://emelinefavreau.github.io/</loc>
+
+    <lastmod>2019-04-03T08:13:38+00:00</lastmod>
+
+    <priority>1.00</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://emelinefavreau.github.io/about/</loc>
+
+    <lastmod>2019-04-03T08:13:38+00:00</lastmod>
+
+    <priority>0.70</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://emelinefavreau.github.io/cv/</loc>
+
+    <lastmod>2019-04-03T08:13:38+00:00</lastmod>
+
+    <priority>0.70</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://emelinefavreau.github.io/publications/</loc>
+
+    <lastmod>2019-04-03T08:13:38+00:00</lastmod>
+
+    <priority>0.70</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://emelinefavreau.github.io/Emeline_Favreau_cv.pdf</loc>
+
+    <lastmod>2019-04-03T08:13:35+00:00</lastmod>
+
+    <priority>0.80</priority>
+
+    <changefreq>monthly</changefreq>
+
+    </url>
+
+</urlset>
