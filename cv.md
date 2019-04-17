@@ -62,16 +62,16 @@ permalink: /cv/
 
 
 ### Outreach
-- 2018: QMUL Festival of Communities
+- 2018: QMUL Festival of Communities in London
 - 2017: Science SoapBoax volunteer in Brighton
-- 2014: NHM Researchers' Night
-- 2013: NHM Big Nature Day
+- 2014: NHM Researchers' Night in London
+- 2013: NHM Big Nature Day in London
 
 
 
-### Project Organisation
+### Collaborative Project Organisation
 - 2018: Organising the [QMUL Festival of Communities outreach day](https://wurmlab.github.io/news/2018-05-18-festival_of_communities/) among a small team of PhD students, specialising on equipment, transport, people logistics.
-- 2017 – 18: Leading our conference committee to organise a [symposium] (https://wurmlab.github.io/news/2018-02-15-iussi_symposium_evolution_of_social_organization/) in the international congress _IUSSI Brazil_, including writing symposium abstract, selecting and reaching out to all speakers including keynote speaker, co-chairing the symposium.
+- 2017 – 18: Leading our conference committee to organise a [symposium](https://wurmlab.github.io/news/2018-02-15-iussi_symposium_evolution_of_social_organization/) in the international congress _IUSSI Brazil_, including writing symposium abstract, selecting and reaching out to all speakers including keynote speaker, co-chairing the symposium.
 - 2016 – ongoing: Leading [our monthly review of published articles](https://wurmlab.github.io/news/2018-02-20-Keeping_up_with_reading_newly_published_articles/), in which each lab member is responsible to summarise 3 journals' current issue.
 
 
