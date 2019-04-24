@@ -45,7 +45,7 @@ permalink: /cv/
 - 2018: QMUL PostGraduate Research Fund for Arizona &  California fieldtrip - £1200
 - 2018: IUSSI North-Western Section grant to organise a symposium at IUSSI Brazil – £1000
 - 2018: Royal Entomological Society grant to organise a symposium at IUSSI Brazil - £450
-- 2018: Royal Society of Biology grant to organise a symposium at IUSSI Brazil - £500
+- 2018: Royal Society of Biology grant to organise a symposium at IUSSI Brazil - £500 [PDF report](https://www.rsb.org.uk/images/pdf/Travel_Grant_report_2018_Favreau_Emeline.pdf)
 - 2017: Genetics Society grant to give a talk at PopGroup - £150
 - 2017: Genetics Society grant to present a poster at ESEB - £624
 - 2015: PhD Scholarship from London NERC DTP - £7500
@@ -70,21 +70,21 @@ permalink: /cv/
 
 
 ### Collaborative Project Organisation
-- 2018: Organising the [QMUL Festival of Communities outreach day](https://wurmlab.github.io/news/2018-05-18-festival_of_communities/) among a small team of PhD students, specialising on equipment, transport, people logistics.
-- 2017 – 18: Leading our conference committee to organise a [symposium](https://wurmlab.github.io/news/2018-02-15-iussi_symposium_evolution_of_social_organization/) in the international congress _IUSSI Brazil_, including writing symposium abstract, selecting and reaching out to all speakers including keynote speaker, co-chairing the symposium.
+- 2018: Organising the [QMUL Festival of Communities outreach day](https://wurmlab.github.io/news/2018-05-18-festival_of_communities/) among a small team of PhD students, specialising in equipment, transport, people logistics.
+- 2017 – 18: Leading our conference committee to organise a [symposium](https://wurmlab.github.io/news/2018-02-15-iussi_symposium_evolution_of_social_organization/) during the international congress _IUSSI Brazil_, specialising in writing symposium abstract, selecting and reaching out to all speakers including keynote speaker, co-chairing the symposium.
 - 2016 – ongoing: Leading [our monthly review of published articles](https://wurmlab.github.io/news/2018-02-20-Keeping_up_with_reading_newly_published_articles/), in which each lab member is responsible to summarise 3 journals' current issue.
 
 
 ### Learned societies member since
-- 2015: International Union for the Study of Social Insects
-- 2016: Genetics Society
-- 2016: Royal Entomological Society
-- 2017: European Society of Evolutionary Biology
-- 2018: Society of Systematics Biologists
-- 2019: Society of Molecular Biology and Evolution
+- 2015: [International Union for the Study of Social Insects](http://www.iussi.org/)
+- 2016: [Genetics Society](http://www.genetics.org.uk/)
+- 2016: [Royal Entomological Society](https://www.royensoc.co.uk/)
+- 2017: [European Society of Evolutionary Biology](https://eseb.org/)
+- 2018: [Society of Systematics Biologists](https://www.systbio.org/)
+- 2019: [Society of Molecular Biology and Evolution](https://www.smbe.org/smbe)
 
 ### Reviewer for
-- PeerJ
+- [PeerJ](https://peerj.com/)
 
 
 
