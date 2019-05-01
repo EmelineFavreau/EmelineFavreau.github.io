@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /zcontact/
 ---
 
 Emeline Favreau
