@@ -8,4 +8,6 @@ I study how social organisation of ants evolved, which leads me from field colle
 
 
 ![sampling ants in Arizona desert](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
-_September 2018: Checking out the local ants in Arizona_
+
+
+ _September 2018: Checking out the local ants in Arizona_
