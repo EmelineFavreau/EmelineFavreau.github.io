@@ -3,6 +3,8 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+![PhD gantt chart](gantt_chart.png)
+
 ### Education
 
 - 2015 – ongoing: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Dr Yannick Wurm and Dr Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
