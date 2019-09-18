@@ -64,6 +64,7 @@ permalink: /cv/
 
 
 ### Outreach
+- 2019: Science pen pal with a US-based student (Letters to a Pre-Scientist)
 - 2018: QMUL Festival of Communities in London
 - 2017: Science SoapBoax volunteer in Brighton
 - 2014: NHM Researchers' Night in London
