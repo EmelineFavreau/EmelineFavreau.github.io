@@ -6,8 +6,8 @@ permalink: /cv/
 ![PhD gantt chart](gantt_chart.png)
 
 ### Education
-
-- 2015 – ongoing: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Dr Yannick Wurm and Dr Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
+- 2019 - ongoing: Postdoc in Seirian Sumner's lab.
+- 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Dr Yannick Wurm and Dr Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
 - 2013 - 2014: MRes Biosystematics at Imperial College London & Natural History Museum, London (NHM).
 - 2008 - 2011: BSc Environmental Sciences at Oxford Brookes University, Oxford 1st Class (Hons).
 
