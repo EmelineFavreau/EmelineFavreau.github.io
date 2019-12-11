@@ -44,6 +44,7 @@ permalink: /cv/
 
  
 ### Grants, honours & awards
+- 2019: Genetics Society grant to give a talk at PopGroup - £150
 - 2018: QMUL PostGraduate Research Fund for Arizona &  California fieldtrip - £1200
 - 2018: IUSSI North-Western Section grant to organise a symposium at IUSSI Brazil – £1000
 - 2018: Royal Entomological Society grant to organise a symposium at IUSSI Brazil - £450
