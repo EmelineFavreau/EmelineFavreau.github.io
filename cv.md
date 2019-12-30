@@ -58,7 +58,7 @@ permalink: /cv/
  
 
 ### Teaching
-- Sept 2016 - Ongoing: Teaching assistant for 8 cohorts of QMUL Undergraduates and Masters classes, including Fieldwork (Tropical Ecology in South Africa), Bioinformatics (R Basics, Advanced R, Bash for Genomics), Basic Biology lab skills (dilution, microscopy, PCR).
+- Sept 2016 - Sept 2019: Teaching assistant for 8 cohorts of QMUL Undergraduates and Masters classes, including Fieldwork (Tropical Ecology in South Africa), Bioinformatics (R Basics, Advanced R, Bash for Genomics), Basic Biology lab skills (dilution, microscopy, PCR).
 - Dec 2017: Lecturer during Undergraduate Tropical Ecology Module in South Africa (_Wildlife and Human Interactions_)
 - Jan - Aug 2017: Design and Supervising Master student project. With Gino Brignoli, focussing on social organisation of yellow meadow ants, involving fieldwork and genetic analyses.
 
