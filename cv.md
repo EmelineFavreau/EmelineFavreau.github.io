@@ -89,6 +89,8 @@ permalink: /cv/
 
 ### Reviewer for
 - [PeerJ](https://peerj.com/)
+- Myrmecological News Blog
+- Insect Science
 
 
 
