@@ -29,6 +29,7 @@ permalink: /cv/
 
 
 ### Talks & posters
+- Jan 2020: postdoc presentation at UCL GEE Seminar, in London
 - Sept 2018: invited talk for Ramírez's group, UC Davis, California (USA)
 - Sept 2018: invited talk at Social Insect Research Group, Arizona State University, Arizona (USA)
 - Sept 2018: talk at NERC DTP conference _A Changing Planet_, in London
@@ -44,6 +45,7 @@ permalink: /cv/
 
  
 ### Grants, honours & awards
+- 2020: ESEB's Godfrey Hewitt Mobility award - €1600
 - 2019: Genetics Society grant to give a talk at PopGroup - £150
 - 2018: QMUL PostGraduate Research Fund for Arizona &  California fieldtrip - £1200
 - 2018: IUSSI North-Western Section grant to organise a symposium at IUSSI Brazil – £1000
@@ -58,6 +60,7 @@ permalink: /cv/
  
 
 ### Teaching
+- Nov 2019 - ongoing: mentoring students in Seirian Sumner's lab
 - Sept 2016 - Sept 2019: Teaching assistant for 8 cohorts of QMUL Undergraduates and Masters classes, including Fieldwork (Tropical Ecology in South Africa), Bioinformatics (R Basics, Advanced R, Bash for Genomics), Basic Biology lab skills (dilution, microscopy, PCR).
 - Dec 2017: Lecturer during Undergraduate Tropical Ecology Module in South Africa (_Wildlife and Human Interactions_)
 - Jan - Aug 2017: Design and Supervising Master student project. With Gino Brignoli, focussing on social organisation of yellow meadow ants, involving fieldwork and genetic analyses.
@@ -65,9 +68,9 @@ permalink: /cv/
 
 
 ### Outreach
-- 2019: Science pen pal with a US-based student (Letters to a Pre-Scientist)
+- 2019: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/)
 - 2018: QMUL Festival of Communities in London
-- 2017: Science SoapBoax volunteer in Brighton
+- 2017: [Science SoapBox](http://www.sciencesoapbox.org/) volunteer in Brighton
 - 2014: NHM Researchers' Night in London
 - 2013: NHM Big Nature Day in London
 
@@ -76,7 +79,7 @@ permalink: /cv/
 ### Collaborative Project Organisation
 - 2018: Organising the [QMUL Festival of Communities outreach day](https://wurmlab.github.io/news/2018-05-18-festival_of_communities/) among a small team of PhD students, specialising in equipment, transport, people logistics.
 - 2017 – 18: Leading our conference committee to organise a [symposium](https://wurmlab.github.io/news/2018-02-15-iussi_symposium_evolution_of_social_organization/) during the international congress _IUSSI Brazil_, specialising in writing symposium abstract, selecting and reaching out to all speakers including keynote speaker, co-chairing the symposium.
-- 2016 – ongoing: Leading [our monthly review of published articles](https://wurmlab.github.io/news/2018-02-20-Keeping_up_with_reading_newly_published_articles/), in which each lab member is responsible to summarise 3 journals' current issue.
+- 2016 – 2019: Leading [the lab's monthly review of published articles](https://wurmlab.github.io/news/2018-02-20-Keeping_up_with_reading_newly_published_articles/), in which each lab member is responsible to summarise 3 journals' current issue.
 
 
 ### Learned societies member since
