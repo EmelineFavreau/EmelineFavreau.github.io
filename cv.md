@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-![PhD gantt chart](gantt_chart.png)
+
 
 ### Education
 - 2019 - ongoing: Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/).
