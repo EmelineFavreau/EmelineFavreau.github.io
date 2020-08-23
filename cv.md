@@ -26,7 +26,12 @@ permalink: /cv/
    - Primer selection
    - Library preparation for microsatellite and whole-genome sequencing (Illumina and MinION)
 
+- Fieldwork
 
+![sampling ants in Arizona desert](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
+
+
+    _September 2018: Checking out the local ants in Arizona_
 
 ### Talks & posters
 - Jan 2020: postdoc presentation at UCL GEE Seminar, in London
