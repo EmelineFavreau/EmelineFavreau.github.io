@@ -4,27 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-# Team work with undergraduate student Jadesada Schneider
-*31st August 2020*
-
-**Preparation**
-Mentoring contract
-Online only because of COVID19, think about researchers experience (seminars, interactions, lab meetings, expert drop-ins and/or emailing, conferences are like music festival)
-
-**First Impressions**
-Great catch up: twice a week face to face, chats the rest of the time
-Fixing things as we go (install issues, github issues), thinking together (correlation is not causation, rubber duckhttps://en.wikipedia.org/wiki/Rubber_duck_debugging ), learning from each other (RStudio tips for 80 characters line, side experiment)
-Teaching Evolution and Bioinformatics
-we talked about publishing, about finding literature (google scholar, connected papers), about writing code properly (github, rmarkdown, 80 characters, version of tools), seminars (attending together and talking about it), presentations (it's ok not to present something completely finished).
-
-**Great collaborative work**
-Check out github for explanatory scripts
-What we found
-Link to J's linkedin/github/presentation
-
-**Take home message**
-
-
 # Letters to a Pre-Scientist
 *31st July 2020*
 
