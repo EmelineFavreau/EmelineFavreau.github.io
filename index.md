@@ -12,4 +12,4 @@ I study how social organisation of insects evolved, which leads me from field co
 ![Wasp Bioinformatician artwork](assets/Emeline_Favreau_by_Raphaella_Jackson.jpg)
 
 
- _Summer 2020: Artwork by Raphaella Jackson (check her Instagram alanin_artwork)_
+ _Summer 2020: Artwork by Raphaella Jackson (check her [Instagram @alanin_artwork](https://www.instagram.com/alanin_artwork/))_
