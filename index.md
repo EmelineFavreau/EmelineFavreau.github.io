@@ -4,12 +4,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-I study how social organisation of insects evolved, which leads me from field collection sites to whole-genome variants and transcriptomic analyses. Officially holding a PhD since February, my days as postdoc contain plenty of wasp bioinformatics analyses, writing-up sessions and mentoring.
+![Emeline Favreau head and shoulder picture](assets/dr_emeline_favreau_DSCF0933_20-09-24.jpg)
 
-**Contact me if you want to collaborate.**
-
-
-![Wasp Bioinformatician artwork](assets/Emeline_Favreau_by_Raphaella_Jackson.jpg)
+I study how social organisation of insects evolved, which leads me from field collection sites to whole-genome variants and transcriptomic analyses. Officially holding a PhD since February, my days as postdoc contain plenty of wasp bioinformatics analyses, writing-up sessions and mentoring. 
 
 
- _Summer 2020: Artwork by Raphaella Jackson (check her [Instagram @alanin_artwork](https://www.instagram.com/alanin_artwork/))_
+
+
+
+
+
+

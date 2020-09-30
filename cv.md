@@ -12,16 +12,15 @@ permalink: /cv/
 - 2008 - 2011: BSc Environmental Sciences at Oxford Brookes University, Oxford 1st Class (Hons).
 
 ### Technical
-- Bioinformatics skills tailored for statistics and variant calling. Depending on needs, analyses conducted on my own computer or high performance computer:
-   - R statistical package
-   - Bash
-   - Version control system
-   - _De novo_ genome assembly
-   - Variant calling
-   - GWAS
-   - Population genomics
+- Bioinformatics for population genetics & genome/transcriptome wrangling
+   - R current favourite packages: ggplot, tidyverse, adegenet
+   - learning Python as I go
+   - Bash top three commands: tmux, vim, qsub
+   - Reproducibility: RMarkdown reports, Github version control, Nextflow pipelines
+   - _De novo_ genome assembly, Variant calling, GWAS, Population genomics
+   - RNAseq QC and transcriptome analyses
 
-- Wet lab skills tailored for sequencing (short and long reads). Depending on needs, I follow established protocols/kits, or design my own:
+- Wet lab skills for sequencing (short and long reads)
    - DNA extraction and QC
    - Primer selection
    - Library preparation for microsatellite and whole-genome sequencing (Illumina and MinION)
@@ -33,6 +32,7 @@ permalink: /cv/
 _September 2018: Checking out the local ants in Arizona_
 
 ### Talks & posters
+- July 2020: V-poster at Arthropod Genomics Symposium ([online](http://i5k.github.io/ags2020))
 - Jan 2020: postdoc presentation at UCL GEE Seminar, in London
 - Sept 2018: invited talk for Ramírez's group, UC Davis, California (USA)
 - Sept 2018: invited talk at Social Insect Research Group, Arizona State University, Arizona (USA)
