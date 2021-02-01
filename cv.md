@@ -5,8 +5,10 @@ permalink: /cv/
 ---
 
 
+### Research position
+- 2019 - ongoing: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/), in collaboration with Katie Geist, [Amy Toth](https://www.ent.iastate.edu/people/amy-toth) and [Sandra Rehan](http://www.rehanlab.com/). This highly collaborative postdoc focuses on understanding the origins of sociality in the wasps and the bees.
+
 ### Education
-- 2019 - ongoing: Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/).
 - 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Dr Yannick Wurm and Dr Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
 - 2013 - 2014: MRes Biosystematics at Imperial College London & Natural History Museum, London (NHM).
 - 2008 - 2011: BSc Environmental Sciences at Oxford Brookes University, Oxford 1st Class (Hons).
@@ -16,9 +18,9 @@ permalink: /cv/
    - R current favourite packages: ggplot, tidyverse, adegenet
    - learning Python as I go
    - Bash top three commands: tmux, vim, qsub
-   - Reproducibility: RMarkdown reports, Github version control, Nextflow pipelines
+   - Reproducibility: RMarkdown reports, Github version control, Nextflow (nf-core/rnaseq), Singularity
    - _De novo_ genome assembly, Variant calling, GWAS, Population genomics
-   - RNAseq QC and transcriptome analyses
+   - RNAseq QC and Transcriptome analyses: DESeq2, WGCNA
 
 - Wet lab skills for sequencing (short and long reads)
    - DNA extraction and QC
@@ -32,6 +34,7 @@ permalink: /cv/
 _September 2018: Checking out the local ants in Arizona_
 
 ### Talks & posters
+- January 2021: postdoc presentation at UCL CBER (online)
 - July 2020: V-poster at Arthropod Genomics Symposium ([online](http://i5k.github.io/ags2020))
 - Jan 2020: postdoc presentation at UCL GEE Seminar, in London
 - Sept 2018: invited talk for Ramírez's group, UC Davis, California (USA)
@@ -64,7 +67,11 @@ _September 2018: Checking out the local ants in Arizona_
  
 
 ### Teaching
-- Nov 2019 - ongoing: mentoring students in Seirian Sumner's lab
+- Nov 2020: Teaching "Molecular Tools for Ecologists" to 80 UCL Undergraduate students. Recorded lecture, exam preparation and marking.
+- Nov 2019 - ongoing: mentoring students in Seirian Sumner's lab. 
+	- 1st year Undergraduate Summer project student Jadesada Schneider (bioinformatics)
+	- 3rd year Undergraduate Autumn project student Shin Khan (R)
+	- MRes Winter project student Phoebe Cunningham (R)
 - Sept 2016 - Sept 2019: Teaching assistant for 8 cohorts of QMUL Undergraduates and Masters classes, including Fieldwork (Tropical Ecology in South Africa), Bioinformatics (R Basics, Advanced R, Bash for Genomics), Basic Biology lab skills (dilution, microscopy, PCR).
 - Dec 2017: Lecturer during Undergraduate Tropical Ecology Module in South Africa (_Wildlife and Human Interactions_)
 - Jan - Aug 2017: Design and Supervising Master student project. With Gino Brignoli, focussing on social organisation of yellow meadow ants, involving fieldwork and genetic analyses.
@@ -72,7 +79,7 @@ _September 2018: Checking out the local ants in Arizona_
 
 
 ### Outreach
-- 2019: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/)
+- 2019-20: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/). Exchanging four letters a year.
 - 2018: QMUL Festival of Communities in London
 - 2017: [Science SoapBox](http://www.sciencesoapbox.org/) volunteer in Brighton
 - 2014: NHM Researchers' Night in London
@@ -81,6 +88,8 @@ _September 2018: Checking out the local ants in Arizona_
 
 
 ### Collaborative Project Organisation
+- 2020: Postdoc representative for UCL GEE: setting up webpage and Slack forum for 200 postdocs.
+- 2020: Principal coordinator of NWE IUSSI Winter Meeting in a small organising committee. The first of its kind online: Zoom, Slack, [Twitter](https://twitter.com/IUSSI_NWES), [Youtube](https://www.youtube.com/channel/UC1Hr003ATlXakc_Zzg7ESQA) for 200 participants from 4 continents.
 - 2018: Organising the [QMUL Festival of Communities outreach day](https://wurmlab.github.io/news/2018-05-18-festival_of_communities/) among a small team of PhD students, specialising in equipment, transport, people logistics.
 - 2017 – 18: Leading our conference committee to organise a [symposium](https://wurmlab.github.io/news/2018-02-15-iussi_symposium_evolution_of_social_organization/) during the international congress _IUSSI Brazil_, specialising in writing symposium abstract, selecting and reaching out to all speakers including keynote speaker, co-chairing the symposium.
 - 2016 – 2019: Leading [the lab's monthly review of published articles](https://wurmlab.github.io/news/2018-02-20-Keeping_up_with_reading_newly_published_articles/), in which each lab member is responsible to summarise 3 journals' current issue.
@@ -95,6 +104,7 @@ _September 2018: Checking out the local ants in Arizona_
 - 2019: [Society of Molecular Biology and Evolution](https://www.smbe.org/smbe)
 
 ### Reviewer for
+- [ProcB](https://royalsocietypublishing.org/journal/rspb)
 - [PeerJ](https://peerj.com/)
 - Myrmecological News Blog
 - Insect Science
