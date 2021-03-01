@@ -4,9 +4,9 @@ title:  "Current top commands"
 
 ---
 
-I recently got in touch with a future colleague who was keen on learn more about genomics and that got me thinking about commands I frequently use these days. I've previously touched upon the usefulness of [github](https://emelinefavreau.github.io/2020/09/30/using-github.html). So here are more snapshots of my bioinformatics workbench.
+I recently got in touch with a future colleague who was keen on learning more about genomics and that got me thinking about commands I frequently use these days. I've previously touched upon the usefulness of [github](https://emelinefavreau.github.io/2020/09/30/using-github.html). So here are more snapshots of my bioinformatics workbench.
 
-![uk spring flowers on green grass](/assets/2021-02-spring-flowers.jpg)
+![uk spring flowers on green grass](/assets/2021-02-spring-flowers-small.jpg)
 
 _February 2021: Spring is coming in still-in-lockdown London_
 
