@@ -6,8 +6,8 @@ title:  "A year working from home"
 
 2020-2021 in London have been great to reducing my commuting time to two seconds from my bedroom to my living-room. Challenges were many however, especially when establishing and nurturing intercontinental collaborations. Katie ([postdoc at Iowa State University](https://github.com/ksgeist)) and I have been working on each side of the pond, untangling the association between molecular processes and evolution of sociality. Here are few tips that worked for us.
 
-![stamps](/assets/ants-on-plants.jpg)
-_Github essentials: you can fork a project and work on a new branch_
+![ants](/assets/ants-on-plants.jpg)
+_Busy working in our working pods, thankfully connected with Internet_
 
 Collaboration thrives on **continuous communication**. We use emails for important topics, and we used Slack for keeping track of actions. We moved on to a shared Google folder with more flexibility to share, change and organise.
 
