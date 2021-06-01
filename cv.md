@@ -6,7 +6,7 @@ permalink: /cv/
 
 
 ### Research position
-- 2019 - ongoing: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/), in collaboration with Katie Geist, [Amy Toth](https://www.ent.iastate.edu/people/amy-toth) and [Sandra Rehan](http://www.rehanlab.com/). This highly collaborative postdoc focuses on understanding the origins of sociality in the wasps and the bees.
+- 2019 - ongoing: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/), in collaboration with Katie Geist, [Amy Toth](https://www.ent.iastate.edu/people/amy-toth) and [Sandra Rehan](http://www.rehanlab.com/). This highly collaborative postdoc focuses on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
 - 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Dr Yannick Wurm and Dr Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
@@ -21,19 +21,21 @@ permalink: /cv/
    - Reproducibility: RMarkdown reports, Github version control, Nextflow (nf-core/rnaseq), Singularity
    - _De novo_ genome assembly, Variant calling, GWAS, Population genomics
    - RNAseq QC and Transcriptome analyses: DESeq2, WGCNA
+   - Machine learning: Support Vector Machine (to predict caste from wasp RNAseq data)
 
 - Wet lab skills for sequencing (short and long reads)
-   - DNA extraction and QC
+   - RNA / DNA extraction and QC (all developmental stages of insect)
    - Primer selection
-   - Library preparation for microsatellite and whole-genome sequencing (Illumina and MinION)
+   - Library preparation for microsatellite, whole-genome sequencing (Illumina and MinION), RNAseq
 
-- Fieldwork
+- Fieldwork in temperate, semi-tropical and desertic areas (usually looking at ants and wasps)
 
 ![sampling ants in Arizona desert](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
 
 _September 2018: Checking out the local ants in Arizona_
 
 ### Talks & posters
+- June 2021: postdoc presentation at UCL CLOE Seminar, in London (online)
 - January 2021: postdoc presentation at UCL CBER (online)
 - July 2020: V-poster at Arthropod Genomics Symposium ([online](http://i5k.github.io/ags2020))
 - Jan 2020: postdoc presentation at UCL GEE Seminar, in London
@@ -79,7 +81,7 @@ _September 2018: Checking out the local ants in Arizona_
 
 
 ### Outreach
-- 2019-20: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/). Exchanging four letters a year.
+- 2019-21: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/). Exchanging four letters a year.
 - 2018: QMUL Festival of Communities in London
 - 2017: [Science SoapBox](http://www.sciencesoapbox.org/) volunteer in Brighton
 - 2014: NHM Researchers' Night in London
