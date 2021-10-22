@@ -81,6 +81,7 @@ _September 2018: Checking out the local ants in Arizona_
 
 
 ### Outreach
+- 2021: Science expert on an episode of [Exolore podcast](https://www.exolorepod.com/episodes): World of Migratory Wasps
 - 2019-21: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/). Exchanging four letters a year.
 - 2018: QMUL Festival of Communities in London
 - 2017: [Science SoapBox](http://www.sciencesoapbox.org/) volunteer in Brighton
