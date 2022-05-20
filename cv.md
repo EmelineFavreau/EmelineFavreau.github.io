@@ -9,19 +9,20 @@ permalink: /cv/
 - 2019 - ongoing: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/), in collaboration with Katie Geist, [Amy Toth](https://www.ent.iastate.edu/people/amy-toth) and [Sandra Rehan](http://www.rehanlab.com/). This highly collaborative postdoc focuses on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
-- 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Dr Yannick Wurm and Dr Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
+- 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Yannick Wurm and Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
 - 2013 - 2014: MRes Biosystematics at Imperial College London & Natural History Museum, London (NHM).
 - 2008 - 2011: BSc Environmental Sciences at Oxford Brookes University, Oxford 1st Class (Hons).
 
 ### Technical
 - Bioinformatics for population genetics & genome/transcriptome wrangling
    - R current favourite packages: ggplot, tidyverse, adegenet
-   - learning Python as I go
+   - Python: matplotlib, pandas, numpy
    - Bash top three commands: tmux, vim, qsub
-   - Reproducibility: RMarkdown reports, Github version control, Nextflow (nf-core/rnaseq), Singularity
-   - _De novo_ genome assembly, Variant calling, GWAS, Population genomics
+   - Reproducibility: RMarkdown reports, Github version control, Nextflow (nf-core/rnaseq), Singularity, Docker
+   - _De novo_ genome assembly (PacBio, MinION, Illumina, HiC), genome annotation (genes, lncRNA, TE), variant calling, GWAS, population genomics
    - RNAseq QC and Transcriptome analyses: DESeq2, WGCNA
    - Machine learning: Support Vector Machine (to predict caste from wasp RNAseq data)
+   - Data Management: I defined the strategy for long-term data storage for the Sumner Lab, and developed a system for all members to safely save their data (genomes, transcriptomes, annotations)
 
 - Wet lab skills for sequencing (short and long reads)
    - RNA / DNA extraction and QC (all developmental stages of insect)
@@ -35,18 +36,20 @@ permalink: /cv/
 _September 2018: Checking out the local ants in Arizona_
 
 ### Talks & posters
-- June 2021: postdoc presentation at UCL CLOE Seminar, in London (online)
+- March 2022: **international invited talk** ("Wasp and Bee Evolution") for GRIB group at IMIM-Pompeu Fabra (Barcelona)
+- June 2021: talk ("European hornet genome sheds light on the molecular basis of superorganisms") at UCL CLOE Seminar, in London (online)
+- March 2021: international poster presentation at Cold Spring Harbour’s Virtual Conference Biology & Genomics of Social Insects (online)
 - January 2021: postdoc presentation at UCL CBER (online)
-- July 2020: V-poster at Arthropod Genomics Symposium ([online](http://i5k.github.io/ags2020))
+- July 2020: international V-poster at Arthropod Genomics Symposium ([online](http://i5k.github.io/ags2020))
 - Jan 2020: postdoc presentation at UCL GEE Seminar, in London
-- Sept 2018: invited talk for Ramírez's group, UC Davis, California (USA)
-- Sept 2018: invited talk at Social Insect Research Group, Arizona State University, Arizona (USA)
+- Sept 2018: **international invited talk** for Ramírez's group, UC Davis, California (USA)
+- Sept 2018: **international invited talk** at Social Insect Research Group, Arizona State University, Arizona (USA)
 - Sept 2018: talk at NERC DTP conference _A Changing Planet_, in London
-- Aug 2018: poster at joint _ESEB_ and _Evolution_ conference, in Montpellier (France)
-- Aug 2018: talk at _IUSSI Brazil_, in Guaruja (Brazil)
-- Mar 2018: invited talk for the UCL GEE Seminar, in London
-- Aug 2017: poster at _ESEB congress_, in Groningen (Netherlands)
-- June 2017: talk at _Evolution_ conference, in Portland, Oregon (USA)
+- Aug 2018: poster at international joint _ESEB_ and _Evolution_ conference, in Montpellier (France)
+- Aug 2018: talk at international _IUSSI Brazil_ conference, in Guaruja (Brazil)
+- Mar 2018: **invited talk** for the UCL GEE Seminar, in London
+- Aug 2017: international poster at _ESEB congress_, in Groningen (Netherlands)
+- June 2017: international talk at _Evolution_ conference, in Portland, Oregon (USA)
 - Feb 2017: poster at QMUL SBCS Postgraduate Symposium, in London
 - Jan 2017: talk at _PopGroup_, in Cambridge
 - Dec 2016: talk at North-West section of _IUSSI_ Winter Meeting, in London
@@ -69,11 +72,12 @@ _September 2018: Checking out the local ants in Arizona_
  
 
 ### Teaching
-- Nov 2020: Teaching "Molecular Tools for Ecologists" to 80 UCL Undergraduate students. Recorded lecture, exam preparation and marking.
+- Nov 2020 and 2021: Teaching "Molecular Tools for Ecologists" to 80 UCL Undergraduate students. Lecture, exam preparation and marking.
 - Nov 2019 - ongoing: mentoring students in Seirian Sumner's lab. 
 	- 1st year Undergraduate Summer project student Jadesada Schneider (bioinformatics)
 	- 3rd year Undergraduate Autumn project student Shin Khan (R)
 	- MRes Winter project student Phoebe Cunningham (R)
+   - Msci Winter project student Quinn Coxon (bioinformatics)
 - Sept 2016 - Sept 2019: Teaching assistant for 8 cohorts of QMUL Undergraduates and Masters classes, including Fieldwork (Tropical Ecology in South Africa), Bioinformatics (R Basics, Advanced R, Bash for Genomics), Basic Biology lab skills (dilution, microscopy, PCR).
 - Dec 2017: Lecturer during Undergraduate Tropical Ecology Module in South Africa (_Wildlife and Human Interactions_)
 - Jan - Aug 2017: Design and Supervising Master student project. With Gino Brignoli, focussing on social organisation of yellow meadow ants, involving fieldwork and genetic analyses.
@@ -81,8 +85,9 @@ _September 2018: Checking out the local ants in Arizona_
 
 
 ### Outreach
+- 2022: invited talk at [Pint of Science](https://pintofscience.co.uk/) for a London pub crowd
 - 2021: Science expert on an episode of [Exolore podcast](https://www.exolorepod.com/episodes): World of Migratory Wasps
-- 2019-21: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/). Exchanging four letters a year.
+- 2019-22: Science pen pal with a US-based student from [Letters to a Pre-Scientist](https://www.prescientist.org/). Exchanging four letters a year.
 - 2018: QMUL Festival of Communities in London
 - 2017: [Science SoapBox](http://www.sciencesoapbox.org/) volunteer in Brighton
 - 2014: NHM Researchers' Night in London
