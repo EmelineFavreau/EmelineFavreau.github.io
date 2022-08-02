@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pint of Science: "
+title:  "Pint of Science: come for a drink, stay for the science!"
 
 ---
 
