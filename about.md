@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 # Evolution, bioinformatics, genomics & social insects
-
-I am interested in understanding molecular mechanisms underlying speciation, adaptation, interactions between species. My current model system is the group of social insects: ants, bees, wasps. I am an evolutionary biologist, currently working with [Seirian Sumner](https://www.ucl.ac.uk/biosciences/people/dr-seirian-sumner) at UCL in London. My postdoc position gives me the opportunity to explore the evolution of social organisation of wasps.
+Bioinformatics PostDoc at University College London with [Prof Seirian Sumner](https://www.ucl.ac.uk/biosciences/people/dr-seirian-sumner), I am currently specialising in social insects comparative genomics and transcriptomics to understand the evolution of social organisation, from the field (5%) to the lab (10%) and the cluster (85%). Within an international collaboration (UK, USA, Canada) I am responsible to explore data and develop pipelines to understand the origins of sociality in the wasps and the bees.
 
 ![Wasp Bioinformatician artwork](assets/Emeline_Favreau_by_Raphaella_Jackson.jpg)
 
