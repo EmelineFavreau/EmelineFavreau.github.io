@@ -5,7 +5,13 @@ permalink: /publications/
 ---
 
  
-Priyam, A., Woodcroft, B.J., Rai, V., Moghul, I., Munagala, A., Ter, F., Chowdhary, H., Pieniak, I., Maynard, L.J., Gibbins, M.A., Moon, H., Davis-Richardson, A., Uludag, M., Watson-Haigh, N.S., Challis, R., Nakamura, H. **Emeline Favreau**, Gómez, E.A., Pluskal, T., Leonard, G., Rumpf, W., Wurm, Y. (2019) [Sequenceserver: A Modern Graphical User Interface for Custom BLAST Databases](https://doi.org/10.1093/molbev/msz185). _Molecular Biology and Evolution_. 36 (12), 2922–2924. DOI:https://doi.org/10.1093/molbev/msz185
+**Favreau, E.**, Lebas, C., Stolle, E., Priyam, A., Pracana, R., Aron, S., and Wurm, Y. [No supergene despite social polymorphism in the big-headed ant Pheidole pallidula](https://doi.org/10.1101/2022.12.06.519286). _bioRxiv_ (2022). DOI: https://doi.org/10.1101/2022.12.06.519286 
+
+
+**Favreau, E.**, Geist, K.S., Wyatt, C.D.R., Toth, A.L., Sumner, S., and Rehan, S.M. [Co-expression gene networks and machine-learning algorithms unveil a core genetic toolkit for reproductive division of labour in rudimentary insect societies](https://doi.org/10.1093/gbe/evac174). _Genome biology and evolution_, evac174. DOI: https://doi.org/10.1093/gbe/evac174
+
+
+Priyam, A., Woodcroft, B.J., Rai, V., Moghul, I., Munagala, A., Ter, F., Chowdhary, H., Pieniak, I., Maynard, L.J., Gibbins, M.A., Moon, H., Davis-Richardson, A., Uludag, M., Watson-Haigh, N.S., Challis, R., Nakamura, H. **Emeline Favreau**, Gómez, E.A., Pluskal, T., Leonard, G., Rumpf, W., Wurm, Y. (2019) [Sequenceserver: A Modern Graphical User Interface for Custom BLAST Databases](https://doi.org/10.1093/molbev/msz185). _Molecular Biology and Evolution_. 36 (12), 2922–2924. DOI: https://doi.org/10.1093/molbev/msz185
 
 
 Linard, B., Crampton-Platt, A., Moriniere, J., Timmermans, M.J.T.M., Andújar, C., Arribas, P., Miller, K.E., Lipecki, J., **Favreau, E.**, Hunter, A., Gómez-Rodríguez, C., Barton, C., Nie, R., Gillett, C.P.D.T., Breeschoten, T., Bocak, L., Vogler, A.P. (2018) [The contribution of mitochondrial metagenomics to large-scale data mining and phylogenetic analysis of Coleoptera](https://doi.org/10.1016/j.ympev.2018.07.008). _Molecular Phylogenetics and Evolution_. 128: 1-11. DOI: https://doi.org/10.1016/j.ympev.2018.07.008
