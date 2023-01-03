@@ -5,10 +5,10 @@ permalink: /publications/
 ---
 
  
-**Favreau, E.**, Lebas, C., Stolle, E., Priyam, A., Pracana, R., Aron, S., and Wurm, Y. [No supergene despite social polymorphism in the big-headed ant Pheidole pallidula](https://doi.org/10.1101/2022.12.06.519286). _bioRxiv_ (2022). DOI: https://doi.org/10.1101/2022.12.06.519286 
+**Favreau, E.**, Lebas, C., Stolle, E., Priyam, A., Pracana, R., Aron, S., and Wurm, Y.  (2022) [No supergene despite social polymorphism in the big-headed ant Pheidole pallidula](https://doi.org/10.1101/2022.12.06.519286). _bioRxiv_. DOI: https://doi.org/10.1101/2022.12.06.519286 
 
 
-**Favreau, E.**, Geist, K.S., Wyatt, C.D.R., Toth, A.L., Sumner, S., and Rehan, S.M. [Co-expression gene networks and machine-learning algorithms unveil a core genetic toolkit for reproductive division of labour in rudimentary insect societies](https://doi.org/10.1093/gbe/evac174). _Genome biology and evolution_, evac174. DOI: https://doi.org/10.1093/gbe/evac174
+**Favreau, E.**, Geist, K.S., Wyatt, C.D.R., Toth, A.L., Sumner, S., and Rehan, S.M. (2022) [Co-expression gene networks and machine-learning algorithms unveil a core genetic toolkit for reproductive division of labour in rudimentary insect societies](https://doi.org/10.1093/gbe/evac174). _Genome biology and evolution_, evac174. DOI: https://doi.org/10.1093/gbe/evac174
 
 
 Priyam, A., Woodcroft, B.J., Rai, V., Moghul, I., Munagala, A., Ter, F., Chowdhary, H., Pieniak, I., Maynard, L.J., Gibbins, M.A., Moon, H., Davis-Richardson, A., Uludag, M., Watson-Haigh, N.S., Challis, R., Nakamura, H. **Emeline Favreau**, Gómez, E.A., Pluskal, T., Leonard, G., Rumpf, W., Wurm, Y. (2019) [Sequenceserver: A Modern Graphical User Interface for Custom BLAST Databases](https://doi.org/10.1093/molbev/msz185). _Molecular Biology and Evolution_. 36 (12), 2922–2924. DOI: https://doi.org/10.1093/molbev/msz185
