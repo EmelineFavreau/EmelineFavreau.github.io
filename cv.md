@@ -6,7 +6,7 @@ permalink: /cv/
 
 
 ### Research position
-- 2019 - ongoing: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/), in collaboration with Katie Geist, [Amy Toth](https://www.ent.iastate.edu/people/amy-toth) and [Sandra Rehan](http://www.rehanlab.com/). This highly collaborative postdoc focuses on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
+- 2019 - finishing in Spring 2023: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/), in collaboration with Katie Geist, [Amy Toth](https://www.ent.iastate.edu/people/amy-toth) and [Sandra Rehan](http://www.rehanlab.com/). This highly collaborative postdoc focuses on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
 - 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Yannick Wurm and Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
