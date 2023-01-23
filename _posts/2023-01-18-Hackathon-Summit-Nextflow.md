@@ -17,5 +17,5 @@ I would encourage everyone to join the next Hackathon. It is running in end of M
 
 The **Summit** was also a great opportunity for me. I was able to make new connections with industry professionals and learn about the ways in which Nextflow is being used in real-world applications, particularly in medical and [rare disease research](https://nf-co.re/raredisease). It was inspiring to hear [Solenne Correard](https://youtu.be/2g2sTMo0J1A) and her team who focused on including all patients, of all genetic background, in the research. It is fascinating to hear about the impact that these pipelines are having on improving patient care and advancing scientific discovery.
 
-The Nextflow Summit and Hackathon was a fantastic learning experience and I am grateful for the opportunity to attend. I am excited to put what I learned into practice and to continue being a part of the nf-core community. I strongly believe that the next challenges for all will be to train people and maintain knowledge of existent pipelines.
+The Nextflow Summit and Hackathon was a fantastic learning experience and I am grateful for the opportunity to attend. I am excited to put what I learned into practice and to continue being a part of the nf-core community. I can already see the challenges for institutions and start-ups alike to maintain knowledge of existent pipelines.
 
