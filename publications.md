@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Wyatt, C.D.R., Bentley, M., Taylor, D., **Favreau, E.**, Brock, R., Taylor, B., Bell, E., Leadbeater, E., and Sumner, S. (2023) Social complexity, life-history and lineage influence the molecular basis of castes in vespid wasps. _Nat Comms_. accepted.
+
+
+Sumner, S., **Favreau, E.**, Geist, K.S., Toth, A.L., and Rehan, S.M. (2023) Molecular patterns and processes in evolving sociality: lessons from insects _Phil Trans_. proof with typesetter.
 
  
 **Favreau, E.**, Lebas, C., Stolle, E., Priyam, A., Pracana, R., Aron, S., and Wurm, Y.  (2022) [No supergene despite social polymorphism in the big-headed ant Pheidole pallidula](https://doi.org/10.1101/2022.12.06.519286). _bioRxiv_. DOI: https://doi.org/10.1101/2022.12.06.519286 
