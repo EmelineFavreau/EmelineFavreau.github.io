@@ -6,7 +6,7 @@ layout: home
 ---
 ![Emeline Favreau head and shoulder picture](assets/dr_emeline_favreau_DSCF0933_20-09-24.jpg)
 
-I work with many genomes, transcriptomes, and TAD data. I focus on how social organisation evolved, which leads me to whole-genome assemblies, variant analyses, transcriptomic analyses, 3D contact mapping of the genome. My days as Bioinformatician contain plenty of analyses, writing-up sessions and mentoring. I am looking for a position in the Spring 2023 - hire me!
+I write pipelines to handle rare disease molecular data and produce reports for clinicians. I previously worked with many animal genomes, transcriptomes, and TAD data. My days as Bioinformatician contain plenty of analyses and writing-up sessions.
 
 
 

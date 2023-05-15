@@ -6,13 +6,14 @@ permalink: /contact/
 
 Emeline Favreau
 
-emeline.favreau.15 [at] ucl.ac.uk
+ef479 [at] cam.ac.uk
 
 Skype: emeline.favreau
 
 
-CBER  
-Medawar Building  
-University College London  
-Gower Street, London, WC1E 6BT  
+Jeffrey Cheah Biomedical Centre
+Puddicombe Way
+Cambridge Biomedical Campus
+Cambridge
+CB2 0AW
 United Kingdom

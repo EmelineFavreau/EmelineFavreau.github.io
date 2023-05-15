@@ -3,10 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Wyatt, C.D.R., Bentley, M., Taylor, D., **Favreau, E.**, Brock, R., Taylor, B., Bell, E., Leadbeater, E., and Sumner, S. (2023) Social complexity, life-history and lineage influence the molecular basis of castes in vespid wasps. _Nat Comms_. accepted.
+**Favreau, E.**, Cini, A., Taylor, D. et al. Putting hornets on the genomic map. Sci Rep 13, 6232 (2023). https://doi.org/10.1038/s41598-023-31932-x
 
 
-Sumner, S., **Favreau, E.**, Geist, K.S., Toth, A.L., and Rehan, S.M. (2023) Molecular patterns and processes in evolving sociality: lessons from insects _Phil Trans_. proof with typesetter.
+Wyatt, C.D.R., Bentley, M., Taylor, D., **Favreau, E.**, Brock, R., Taylor, B., Bell, E., Leadbeater, E., and Sumner, S. (2023) Social complexity, life-history and lineage influence the molecular basis of castes in vespid wasps. _Nat Commun_ 14, 1046. DOI: https://doi.org/10.1038/s41467-023-36456-6
+
+
+Sumner, S., **Favreau, E.**, Geist, K.S., Toth, A.L., and Rehan, S.M. (2023) Molecular patterns and processes in evolving sociality: lessons from insects _Phil Trans_. 378: 20220076. http://doi.org/10.1098/rstb.2022.0076
 
  
 **Favreau, E.**, Lebas, C., Stolle, E., Priyam, A., Pracana, R., Aron, S., and Wurm, Y.  (2022) [No supergene despite social polymorphism in the big-headed ant Pheidole pallidula](https://doi.org/10.1101/2022.12.06.519286). _bioRxiv_. DOI: https://doi.org/10.1101/2022.12.06.519286 
