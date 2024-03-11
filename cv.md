@@ -6,8 +6,8 @@ permalink: /cv/
 
 
 ### Research positions
-- 2023 - ongoing: Bioinformatician in rare disease in [Prof Chris Wallace's lab](http://chr1swallace.github.io/).
-- 2019 - 2023: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). This highly collaborative postdoc focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
+- May 2023 - ongoing: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling immuno-deficient patient data and designing analyses for 4 research groups. 
+- Oct 2019 - April 2023: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
 - 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Yannick Wurm and Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
@@ -19,7 +19,7 @@ permalink: /cv/
    - R current favourite packages: ggplot, tidyverse, adegenet
    - Python: matplotlib, pandas, numpy
    - Bash: tmux, vim, sbatch, qsub
-   - Database: mysql (creating new schema, updating current database, extracting data for management and curation)
+   - Database: MySQL (creating new schema, updating current database, extracting data for management and curation)
    - Pipeline optimisation: HPC resource management to tailor Nextflow pipeline nf-core/sarek to a large re-mapping project
    - Reproducibility: RMarkdown reports, Github version control, Nextflow (nf-core/rnaseq), Singularity, Docker
    - _De novo_ genome assembly (PacBio, MinION, Illumina, HiC), genome annotation (genes, lncRNA, TE), variant calling (SNP, SV, copy number variant), GWAS, population genomics
