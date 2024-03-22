@@ -6,11 +6,11 @@ permalink: /cv/
 
 
 ### Research positions
-- May 2023 - ongoing: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling immuno-deficient patient data and designing analyses for 4 research groups. Statistical analysis of B cell data from immuno-deficient patients in the team of [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns). 
+- May 2023 - ongoing: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling immuno-deficient patient data and designing analyses for 4 research groups. Statistical analysis of B cell data from immuno-deficient patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns). Mapping thousands of genomes to GRCh38 in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/).
 - Oct 2019 - April 2023: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
-- 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Yannick Wurm and Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/).
+- 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Yannick Wurm and Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/). Practiced in molecular DNA wet lab and dry lab (short and long reads).
 - 2013 - 2014: MRes Biosystematics at Imperial College London & Natural History Museum, London (NHM).
 - 2008 - 2011: BSc Environmental Sciences at Oxford Brookes University, Oxford 1st Class (Hons).
 
@@ -27,16 +27,7 @@ permalink: /cv/
    - Machine learning: Support Vector Machine (to predict caste from wasp RNAseq data)
    - Data Management: I defined the strategy for long-term data storage for the Sumner Lab, and developed a system for all members to safely save their data (genomes, transcriptomes, annotations)
 
-- Wet lab skills for sequencing (short and long reads)
-   - RNA / DNA extraction and QC (all developmental stages of insect)
-   - Primer selection
-   - Library preparation for microsatellite, whole-genome sequencing (Illumina and MinION), RNAseq
-
-- Fieldwork in temperate, semi-tropical and desertic areas (usually looking at ants and wasps)
-
-![sampling ants in Arizona desert](assets/2018-09-25-south-mountain-park-fieldwork.jpeg)
-
-_September 2018: Checking out the local ants in Arizona_
+In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatellites) and in the field (sampling invertebrates worldwide).
 
 ### Talks & posters
 - March 2022: **international invited talk** ("Wasp and Bee Evolution") for GRIB group at IMIM-Pompeu Fabra (Barcelona)
