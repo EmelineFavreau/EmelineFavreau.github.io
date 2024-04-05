@@ -6,7 +6,10 @@ permalink: /cv/
 
 
 ### Research positions
-- May 2023 - ongoing: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling immuno-deficient patient data and designing analyses for 4 research groups. Statistical analysis of B cell data from immuno-deficient patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns). Mapping thousands of genomes to GRCh38 in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/).
+- May 2023 - ongoing: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling immuno-deficient patient data and designing analyses for 4 research groups.
+    - Statistical analysis of B cell data from immuno-deficient patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns).
+    - Mapping thousands of genomes to GRCh38 in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/).
+    - Managing a reliable archiving solution to preserve patient data (flow cytometry, WGS, transcriptomics) for both secure storage and input to R&D.
 - Oct 2019 - April 2023: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
