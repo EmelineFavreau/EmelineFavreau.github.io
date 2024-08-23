@@ -10,6 +10,7 @@ permalink: /cv/
     - Statistical analysis of B cell data from immuno-deficient patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns).
     - Mapping thousands of genomes to GRCh38 and calling variants for rare diseases in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/).
     - Managing a reliable archiving solution to preserve patient data (flow cytometry, WGS, transcriptomics) for both secure storage and input to R&D.
+    - Calling variants and annotating their effects with VEP in the team of immunomogist [Prof Matthew Cook](https://www.cuh.nhs.uk/staff-directory/professor-matthew-cook/).
 - Oct 2019 - April 2023: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
