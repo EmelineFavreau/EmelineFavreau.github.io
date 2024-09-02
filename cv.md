@@ -33,25 +33,13 @@ permalink: /cv/
 
 In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatellites) and in the field (sampling invertebrates worldwide).
 
-### Talks & posters
-- March 2022: **international invited talk** ("Wasp and Bee Evolution") for GRIB group at IMIM-Pompeu Fabra (Barcelona)
-- June 2021: talk ("European hornet genome sheds light on the molecular basis of superorganisms") at UCL CLOE Seminar, in London (online)
-- March 2021: international poster presentation at Cold Spring Harbour’s Virtual Conference Biology & Genomics of Social Insects (online)
-- January 2021: postdoc presentation at UCL CBER (online)
-- July 2020: international V-poster at Arthropod Genomics Symposium ([online](http://i5k.github.io/ags2020))
-- Jan 2020: postdoc presentation at UCL GEE Seminar, in London
-- Sept 2018: **international invited talk** for Ramírez's group, UC Davis, California (USA)
-- Sept 2018: **international invited talk** at Social Insect Research Group, Arizona State University, Arizona (USA)
-- Sept 2018: talk at NERC DTP conference _A Changing Planet_, in London
-- Aug 2018: poster at international joint _ESEB_ and _Evolution_ conference, in Montpellier (France)
-- Aug 2018: talk at international _IUSSI Brazil_ conference, in Guaruja (Brazil)
-- Mar 2018: **invited talk** for the UCL GEE Seminar, in London
-- Aug 2017: international poster at _ESEB congress_, in Groningen (Netherlands)
-- June 2017: international talk at _Evolution_ conference, in Portland, Oregon (USA)
-- Feb 2017: poster at QMUL SBCS Postgraduate Symposium, in London
-- Jan 2017: talk at _PopGroup_, in Cambridge
-- Dec 2016: talk at North-West section of _IUSSI_ Winter Meeting, in London
-- Sept 2016: poster at NERC DTP conference _Perspectives on Environmental Change_, in London
+### Talks
+- 2022: **international invited talk** for the GRIB group at IMIM-Pompeu Fabra (Barcelona)
+- 2021: 2 talks (UCL CLOE and UCL CBER Seminars, London)
+- 2020: 1 talk (UCL GEE Seminar, London)
+- 2018: **2 international invited talks** in USA (Ramírez's group, UC Davis, California; Social Insect Research Group, Arizona State University, Arizona); **1 invited talk** (UCL GEE Seminar, London); 1 international talk (_IUSSI Brazil_, in Guaruja); 1 international poster (_ESEB_ and _Evolution_ conference, Montpellier, France).
+- 2017: 1 international talk (_Evolution_, Portland, Oregon, USA); 1 international poster (_ESEB congress_, Groningen, Netherlands); 1 talk (_PopGroup_, Cambridge)
+- 2016: 1 talk (North-West section of _IUSSI_ Winter Meeting, London)
 
  
 ### Grants, honours & awards
