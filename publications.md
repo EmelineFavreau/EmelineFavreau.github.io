@@ -3,7 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-**Favreau, E.**, Cini, A., Taylor, D. et al. Putting hornets on the genomic map. Sci Rep 13, 6232 (2023). https://doi.org/10.1038/s41598-023-31932-x
+Cunningham‐Eurich, I., Kontou, D., Yordanova, M., Maeda‐Obregon, A., **Favreau, E.**, Wang, J., Hart, A.G. and Sumner, S. (2023) Using citizen science data to assess the population genetic structure of the common yellowjacket wasp, Vespula vulgaris. _Ins Mol Biol_ 32 (6), 634-647. DOI: https://doi.org/10.1111/imb.12862
+
+**Favreau, E.**, Cini, A., Taylor, D. et al. (2023) Putting hornets on the genomic map. _Sci Rep_ 13, 6232. DOI: https://doi.org/10.1038/s41598-023-31932-x
 
 
 Wyatt, C.D.R., Bentley, M., Taylor, D., **Favreau, E.**, Brock, R., Taylor, B., Bell, E., Leadbeater, E., and Sumner, S. (2023) Social complexity, life-history and lineage influence the molecular basis of castes in vespid wasps. _Nat Commun_ 14, 1046. DOI: https://doi.org/10.1038/s41467-023-36456-6
