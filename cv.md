@@ -7,7 +7,7 @@ permalink: /cv/
 
 ### Research positions
 - Since May 2023: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling immuno-deficient patient data and designing analyses for 4 research groups.
-    - Statistical analysis of B cell data from immuno-deficient patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns).
+    - Statistical analysis of B cell data from immuno-deficient patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns) with [Dr Luiza C. Campos](https://orcid.org/0000-0002-4315-9105).
     - Mapping thousands of genomes to GRCh38 and calling variants for rare diseases in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/).
     - Managing a reliable archiving solution to preserve patient data (flow cytometry, WGS, transcriptomics) for both secure storage and input to R&D.
     - Calling variants and annotating their effects with VEP in the team of immunologist [Prof Matthew Cook](https://www.cuh.nhs.uk/staff-directory/professor-matthew-cook/).
