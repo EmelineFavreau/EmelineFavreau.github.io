@@ -6,7 +6,7 @@ layout: home
 ---
 ![Emeline Favreau head and shoulder picture](assets/dr_emeline_favreau_DSCF0933_20-09-24.jpg)
 
-I write pipelines to handle rare disease molecular data and produce reports for clinicians. I previously worked with many animal genomes, transcriptomes, and TAD data. My days as Bioinformatician contain plenty of analyses and writing-up sessions.
+I write pipelines to handle rare disease molecular data and produce reports for clinicians (see my [CV](https://emelinefavreau.github.io/cv/)). I [blogged](https://emelinefavreau.github.io/blog/) about my previous work with animal genomes, transcriptomes, and TAD data. My days as Bioinformatician contain plenty of analyses and writing-up sessions. Want to know more? Reach out to [me](https://emelinefavreau.github.io/contact/) and read some [papers](https://emelinefavreau.github.io/publications/).
 
 
 
