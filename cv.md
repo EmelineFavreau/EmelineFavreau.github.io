@@ -89,19 +89,9 @@ In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatel
 - 2016 – 2019: Leading [the lab's monthly review of published articles](https://wurmlab.github.io/news/2018-02-20-Keeping_up_with_reading_newly_published_articles/), in which each lab member is responsible to summarise 3 journals' current issue.
 
 
-### Learned societies member since
-- 2015: [International Union for the Study of Social Insects](http://www.iussi.org/)
-- 2016: [Genetics Society](http://www.genetics.org.uk/)
-- 2016: [Royal Entomological Society](https://www.royensoc.co.uk/)
-- 2017: [European Society of Evolutionary Biology](https://eseb.org/)
-- 2018: [Society of Systematics Biologists](https://www.systbio.org/)
-- 2019: [Society of Molecular Biology and Evolution](https://www.smbe.org/smbe)
-
-### Reviewer for
-- [ProcB](https://royalsocietypublishing.org/journal/rspb)
-- [PeerJ](https://peerj.com/)
-- Myrmecological News Blog
-- Insect Science
+### Active Part in Research Communities
+- Member of [International Union for the Study of Social Insects](http://www.iussi.org/), [Genetics Society](http://www.genetics.org.uk/), [Royal Entomological Society](https://www.royensoc.co.uk/), [European Society of Evolutionary Biology](https://eseb.org/), [Society of Systematics Biologists](https://www.systbio.org/), [Society of Molecular Biology and Evolution](https://www.smbe.org/smbe)
+- Reviewer for ERC grant, [ProcB](https://royalsocietypublishing.org/journal/rspb), [PeerJ](https://peerj.com/), Myrmecological News Blog, Insect Science,
 
 
 
