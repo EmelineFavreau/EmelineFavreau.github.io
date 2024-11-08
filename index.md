@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Bioinformatics, genomics & pipelines
+
 Bioinformatician at University of Cambridge with [Prof Chris Wallace](http://chr1swallace.github.io/), working on the INTREPID project.
 
 I write pipelines to handle rare disease molecular data and produce reports for clinicians (see my [CV](https://emelinefavreau.github.io/cv/)). I [blogged](https://emelinefavreau.github.io/blog/) about my previous work with animal genomes, transcriptomes, and TAD data. 
