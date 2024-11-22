@@ -3,15 +3,18 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Cunningham‐Eurich, I., Kontou, D., Yordanova, M., Maeda‐Obregon, A., **Favreau, E.**, Wang, J., Hart, A.G. and Sumner, S. (2023) Using citizen science data to assess the population genetic structure of the common yellowjacket wasp, Vespula vulgaris. _Ins Mol Biol_ 32 (6), 634-647. DOI: https://doi.org/10.1111/imb.12862
-
-**Favreau, E.**, Cini, A., Taylor, D. et al. (2023) Putting hornets on the genomic map. _Sci Rep_ 13, 6232. DOI: https://doi.org/10.1038/s41598-023-31932-x
+Toth, A.L., Wyatt, C.D.R., Masonbrink, R.E., Geist, K.S, Fortune, R., Scott, S.B., **Favreau, E.**, Rehan, S.R., Sumner, S., Gardiner, M.M. and Sivakoff, F.S (2024) [New genomic resources inform transcriptomic responses to heavy metal toxins in the common Eastern bumble bee Bombus impatiens](https://doi.org/10.1186/s12864-024-11040-4). _BMC Genomics_ 25, 1106. DOI: https://doi.org/10.1186/s12864-024-11040-4
 
 
-Wyatt, C.D.R., Bentley, M., Taylor, D., **Favreau, E.**, Brock, R., Taylor, B., Bell, E., Leadbeater, E., and Sumner, S. (2023) Social complexity, life-history and lineage influence the molecular basis of castes in vespid wasps. _Nat Commun_ 14, 1046. DOI: https://doi.org/10.1038/s41467-023-36456-6
+Cunningham‐Eurich, I., Kontou, D., Yordanova, M., Maeda‐Obregon, A., **Favreau, E.**, Wang, J., Hart, A.G. and Sumner, S. (2023) [Using citizen science data to assess the population genetic structure of the common yellowjacket wasp, Vespula vulgaris](https://doi.org/10.1111/imb.12862). _Ins Mol Biol_ 32 (6), 634-647. DOI: https://doi.org/10.1111/imb.12862
+
+**Favreau, E.**, Cini, A., Taylor, D. et al. (2023) [Putting hornets on the genomic map](https://doi.org/10.1038/s41598-023-31932-x). _Sci Rep_ 13, 6232. DOI: https://doi.org/10.1038/s41598-023-31932-x
 
 
-Sumner, S., **Favreau, E.**, Geist, K.S., Toth, A.L., and Rehan, S.M. (2023) Molecular patterns and processes in evolving sociality: lessons from insects _Phil Trans_. 378: 20220076. http://doi.org/10.1098/rstb.2022.0076
+Wyatt, C.D.R., Bentley, M., Taylor, D., **Favreau, E.**, Brock, R., Taylor, B., Bell, E., Leadbeater, E., and Sumner, S. (2023) [Social complexity, life-history and lineage influence the molecular basis of castes in vespid wasps](https://doi.org/10.1038/s41467-023-36456-6). _Nat Commun_ 14, 1046. DOI: https://doi.org/10.1038/s41467-023-36456-6
+
+
+Sumner, S., **Favreau, E.**, Geist, K.S., Toth, A.L., and Rehan, S.M. (2023) [Molecular patterns and processes in evolving sociality: lessons from insects](http://doi.org/10.1098/rstb.2022.0076). _Phil Trans_. 378: 20220076. http://doi.org/10.1098/rstb.2022.0076
 
  
 **Favreau, E.**, Lebas, C., Stolle, E., Priyam, A., Pracana, R., Aron, S., and Wurm, Y.  (2022) [No supergene despite social polymorphism in the big-headed ant Pheidole pallidula](https://doi.org/10.1101/2022.12.06.519286). _bioRxiv_. DOI: https://doi.org/10.1101/2022.12.06.519286 
