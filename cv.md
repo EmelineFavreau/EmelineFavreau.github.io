@@ -8,10 +8,10 @@ permalink: /cv/
 ### Research positions
 - Since May 2023: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling immuno-deficient patient data and designing analyses for 4 research groups.
     - Statistical analysis of B cell data from immuno-deficient patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns) with [Dr Luiza C. Campos](https://orcid.org/0000-0002-4315-9105).
-    - Mapping thousands of genomes to GRCh38 and calling variants for rare diseases in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/) and Daniel Greene.
+    - Mapping thousands of genomes to GRCh38 and calling variants for rare diseases in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/) and Dr Daniel Greene.
     - Managing a reliable archiving solution to preserve patient data (flow cytometry, WGS, transcriptomics) for both secure storage and input to R&D.
-    - Calling variants and annotating their effects with VEP in the team of immunologist [Prof Matthew Cook](https://www.cuh.nhs.uk/staff-directory/professor-matthew-cook/), with Kristy Kwong and [Yuwei Hao](https://orcid.org/0000-0003-3932-3686).
-- Oct 2019 - April 2023: NERC-funded Postdoc in [Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
+    - Calling variants and annotating their effects with VEP in the team of immunologist [Prof Matthew Cook](https://www.cuh.nhs.uk/staff-directory/professor-matthew-cook/), with DrvKristy Kwong and [Yuwei Hao](https://orcid.org/0000-0003-3932-3686).
+- Oct 2019 - April 2023: NERC-funded Postdoc in [Prof Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
 - 2015 – 2019: PhD in ant genomics, [QMUL](https://www.qmul.ac.uk/sbcs/staff/emelinefavreau.html). Supervisors: Yannick Wurm and Max Reuter. [NERC-funded Doctoral Training Programme](https://london-nerc-dtp.org/). Practiced in molecular DNA wet lab and dry lab (short and long reads).
@@ -45,16 +45,11 @@ In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatel
 ### Grants, honours & awards
 - 2020: ESEB's Godfrey Hewitt Mobility award - €1600
 - 2019: Genetics Society grant to give a talk at PopGroup - £150
-- 2018: QMUL PostGraduate Research Fund for Arizona &  California fieldtrip - £1200
-- 2018: IUSSI North-Western Section grant to organise a symposium at IUSSI Brazil – £1000
-- 2018: Royal Entomological Society grant to organise a symposium at IUSSI Brazil - £450
-- 2018: Royal Society of Biology grant to organise a symposium at IUSSI Brazil - £500 [PDF report](https://www.rsb.org.uk/images/pdf/Travel_Grant_report_2018_Favreau_Emeline.pdf)
-- 2017: Genetics Society grant to give a talk at PopGroup - £150
-- 2017: Genetics Society grant to present a poster at ESEB - £624
+- 2018: QMUL PostGraduate Research Fund for Arizona &  California fieldtrip - £1200; 3 grants to organise a symposium at IUSSI Brazil ( £1000 from IUSSI North-Western Section, £450 from Royal Entomological Society, £500 from Royal Society of Biology [PDF report](https://www.rsb.org.uk/images/pdf/Travel_Grant_report_2018_Favreau_Emeline.pdf))
+- 2017: 2 Genetics Society grants to give a talk at PopGroup (£150) and to present a poster at ESEB (£624)
 - 2015: PhD Scholarship from London NERC DTP - £7500
 - 2014: Royal Entomological Society grant to present a poster at 2nd Young Natural History Scientists’ Meeting (2014, France)
-- 2013: Scholarship awarded from Entente Cordiale (Masters of Research)
-- 2013: Study grant from Ruby and Will George Trust (Masters of Research)
+- 2013: 1 Scholarship awarded from Entente Cordiale (Masters of Research); Study grant from Ruby and Will George Trust (Masters of Research)
  
 
 ### Teaching
