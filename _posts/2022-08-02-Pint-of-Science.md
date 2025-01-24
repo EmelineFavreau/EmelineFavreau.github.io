@@ -7,7 +7,7 @@ title:  "Pint of Science: come for a drink, stay for the science!"
 I was invited to present my research in a London pub - so much fun! This was an event organised by [Pint of Science](https://pintofscience.co.uk/), encouraging **scientists to share their projects to local pub goers**. 
 
 ![talk](/assets/2022-05-pint-of-science-screen.jpg)
-_The [Ivy House Pub](https://www.ivyhousenunhead.com/) hosted us for the event. Photo credit: [Dr Cintia Oi](https://twitter.com/Cin_Oi)_
+_The [Ivy House Pub](https://www.ivyhousenunhead.com/) hosted us for the event. Photo credit: Dr Cintia Oi_
 
 The mission of this international science festival is simple: share a drink and exchange science facts. Each local pub, café or communal space hosts an evening of talks for the local audience. I really like it because the event is breaking down potential barriers between the academic world and local community. 
 

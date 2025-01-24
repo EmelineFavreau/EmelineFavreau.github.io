@@ -4,7 +4,7 @@ title:  "Top Command Lines"
 
 ---
 
-I welcomed a new colleague this week on campus, this was awesome after several months of working from home! [Cintia Oi](https://twitter.com/Cin_Oi) is coming with fantastic ideas and questions to challenge some genomic data. I'm updating my "current top commands" to share more of what's going on my screen.
+I welcomed a new colleague this week on campus, this was awesome after several months of working from home! Cintia Oi is coming with fantastic ideas and questions to challenge some genomic data. I'm updating my "current top commands" to share more of what's going on my screen.
 
 **Writing reproducible science**. In our lab, Chris Wyatt is the torchbearer of [Nextlow](https://www.nextflow.io/) and is encouraging us to use this version-control, open-source workflow pipeline. This allowed me to clean raw RNAseq data, to run QC steps, to map reads to a genome, to obtain read counts ready for statistical analyses. The process was relatively straight forward: select on a platform the workflow (e.g. https://nf-co.re/rnaseq/1.3), download an image containing the recipe for the workflow on your cluster, set the experiment, and let it run in the background. It can be used for all sizes of data, so I could run it with all sorts of samples laying around in our lab. Enrich your science with reproducibility: https://nf-co.re/usage/nextflow (tutorials).
 

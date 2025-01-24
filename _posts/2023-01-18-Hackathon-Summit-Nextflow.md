@@ -4,7 +4,7 @@ title:  "Nextflow Summit 2022"
 
 ---
 
-In October 2022, I was lucky to be encouraged by my research team to attend the [Nextflow Summit and Hackathon in Barcelona](https://nf-co.re/events/2022/hackathon-october-2022). I wanted to improve my skills at the Hackathon, and meet the peeps behind the **Nextflow pipelines** that are open-source and community-driven. This was the occasion to meet my colleague [Chris Wyatt](https://twitter.com/wyatt1chris) too. It was an incredibly valuable experience, both for the technical skills I gained and the connections I made with other professionals in the field.
+In October 2022, I was lucky to be encouraged by my research team to attend the [Nextflow Summit and Hackathon in Barcelona](https://nf-co.re/events/2022/hackathon-october-2022). I wanted to improve my skills at the Hackathon, and meet the peeps behind the **Nextflow pipelines** that are open-source and community-driven. This was the occasion to meet my colleague Chris Wyatt too. It was an incredibly valuable experience, both for the technical skills I gained and the connections I made with other professionals in the field.
 
 ![talk](/assets/2022-10-Nextflow-small.jpeg)
 _The Nextflow Summit dinner included neat logos on walls and beer bottles_

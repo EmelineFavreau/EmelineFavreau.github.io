@@ -78,7 +78,7 @@ In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatel
 
 ### Collaborative Project Organisation
 - 2020: Postdoc representative for UCL GEE: setting up webpage and Slack forum for 200 postdocs.
-- 2020: Principal coordinator of NWE IUSSI Winter Meeting in a small organising committee. The first of its kind online: Zoom, Slack, [Twitter](https://twitter.com/IUSSI_NWES), [Youtube](https://www.youtube.com/channel/UC1Hr003ATlXakc_Zzg7ESQA) for 200 participants from 4 continents.
+- 2020: Principal coordinator of NWE IUSSI Winter Meeting in a small organising committee. The first of its kind online: Zoom, Slack, Twitter, [Youtube](https://www.youtube.com/channel/UC1Hr003ATlXakc_Zzg7ESQA) for 200 participants from 4 continents.
 - 2018: Organising the [QMUL Festival of Communities outreach day](https://wurmlab.github.io/news/2018-05-18-festival_of_communities/) among a small team of PhD students, specialising in equipment, transport, people logistics.
 - 2017 – 18: Leading our conference committee to organise a [symposium](https://wurmlab.github.io/news/2018-02-15-iussi_symposium_evolution_of_social_organization/) during the international congress _IUSSI Brazil_, specialising in writing symposium abstract, selecting and reaching out to all speakers including keynote speaker, co-chairing the symposium.
 - 2016 – 2019: Leading [the lab's monthly review of published articles](https://wurmlab.github.io/news/2018-02-20-Keeping_up_with_reading_newly_published_articles/), in which each lab member is responsible to summarise 3 journals' current issue.
