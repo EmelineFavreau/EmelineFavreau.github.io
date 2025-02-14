@@ -16,7 +16,7 @@ Want to know more? Reach out to [me](https://emelinefavreau.github.io/contact/) 
 
 The neurodegenerative disease of my niece has driven me to shift my path from insect evolutionary biology to genomics of rare diseases. I keep an eye on Batten disease literature, [see our French outreach website on CLN3 disease](http://cln.jmfavreau.info/index.html).
 
-![Emeline Favreau head and shoulder picture](assets/dr_emeline_favreau_DSCF0933_20-09-24.jpg)
+![Emeline Favreau head and shoulder picture](assets/2025_headshot_hires.jpg)
 
 
 
