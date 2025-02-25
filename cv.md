@@ -26,7 +26,7 @@ permalink: /cv/
    - Database: MySQL (creating new schema, updating current database, extracting data for management and curation)
    - Pipeline optimisation: HPC resource management to tailor Nextflow pipeline nf-core/sarek to a large re-mapping project
    - Reproducibility: RMarkdown reports, Github version control, Nextflow (nf-core/rnaseq), Singularity, Docker
-   - _De novo_ genome assembly (PacBio, MinION, Illumina, HiC), genome annotation (genes, lncRNA, TE), variant calling (SNP, SV, copy number variant), GWAS, population genomics
+   - _De novo_ genome assembly (PacBio, MinION, Illumina, HiC), genome annotation (genes, lncRNA, TE), variant calling (SNP, SV, copy number variant), GWAS, population genomics, ancestry analysis (plink)
    - RNAseq QC and Transcriptome analyses: DESeq2, WGCNA
    - Machine learning: Support Vector Machine (to predict caste from wasp RNAseq data)
    - Data Management: I defined the strategy for long-term data storage for the Sumner Lab, and developed a system for all members to safely save their data (genomes, transcriptomes, annotations)
