@@ -8,7 +8,6 @@ Emeline Favreau
 
 ef479 [at] cam.ac.uk
 
-Skype: emeline.favreau
 
 
 Jeffrey Cheah Biomedical Centre  
