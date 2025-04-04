@@ -9,9 +9,9 @@ permalink: /cv/
 - Since May 2023: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling data from a cohort of patients with Inborn Errors of Immunity (IEI). Designing and conducting analyses for 4 research groups.
     - Statistical analysis of B cell data from IEI patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns) with [Dr Luiza C. Campos](https://orcid.org/0000-0002-4315-9105).
     - Mapping thousands of genomes to GRCh38 and calling small and structural variants for rare diseases in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/) and Dr Daniel Greene.
-    - Managing a reliable archiving solution to preserve patient data (flow cytometry, WGS, transcriptomics) for both secure storage and input to R&D.
     - Calling variants and annotating their effects with VEP in the team of immunologist [Prof Matthew Cook](https://www.cuh.nhs.uk/staff-directory/professor-matthew-cook/), with [Dr Kristy Kwong](https://www.linkedin.com/in/kristykxm/) and [Dr Yuki Kawamura](https://orcid.org/0000-0003-2137-6464).
-    - Ancestry analysis in a cohort of cancer patients, with Prof Matthew Cook and [Dr Yuwei Hao](https://orcid.org/0000-0003-3932-3686).
+    - Variant calling, annotation and ancestry analysis in a cohort of cancer patients, with Prof Matthew Cook and [Dr Yuwei Hao](https://orcid.org/0000-0003-3932-3686).
+    - Managing a reliable archiving solution to preserve patient data (flow cytometry, WGS, transcriptomics) for both secure storage and input to R&D.
 - Oct 2019 - April 2023: NERC-funded Postdoc in [Prof Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
 ### Education
@@ -26,7 +26,7 @@ permalink: /cv/
    - Bash: tmux, vim, sbatch, qsub
    - Database: MySQL (creating new schema, updating current database, extracting data for management and curation)
    - Pipeline optimisation: HPC resource management to tailor Nextflow pipeline nf-core/sarek to a large re-mapping project
-   - Reproducibility: RMarkdown reports, Github version control, Nextflow (nf-core/rnaseq), Singularity, Docker
+   - Reproducibility: RMarkdown reports, Github/Gitlab version control, Nextflow (nf-core/rnaseq, sarek), Singularity, Docker
    - _De novo_ genome assembly (PacBio, MinION, Illumina, HiC), genome annotation (genes, lncRNA, TE), variant calling (SNP, SV, copy number variant), GWAS, population genomics, ancestry analysis (plink)
    - RNAseq QC and Transcriptome analyses: DESeq2, WGCNA
    - Machine learning: Support Vector Machine (to predict caste from wasp RNAseq data)
