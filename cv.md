@@ -10,7 +10,7 @@ permalink: /cv/
     - Statistical analysis of B cell data from IEI patients in the team of clinical academic [Prof Siobhan Burns](https://www.ucl.ac.uk/infection-immunity/people/professor-siobhan-burns) with [Dr Luiza C. Campos](https://orcid.org/0000-0002-4315-9105).
     - Mapping thousands of genomes to GRCh38 and calling small and structural variants for rare diseases in the team of biostatistician [Dr Ernest Turro](https://labs.icahn.mssm.edu/turrolab/members/) and Dr Daniel Greene.
     - Calling variants and annotating their effects with VEP in the team of immunologist [Prof Matthew Cook](https://www.cuh.nhs.uk/staff-directory/professor-matthew-cook/), with [Dr Kristy Kwong](https://www.linkedin.com/in/kristykxm/) and [Dr Yuki Kawamura](https://orcid.org/0000-0003-2137-6464).
-    - Variant calling, annotation and ancestry analysis in a cohort of cancer patients, with Prof Matthew Cook and [Dr Yuwei Hao](https://orcid.org/0000-0003-3932-3686).
+    - Variant calling, annotation; ancestry analysis and polygenic risk score analysis in a cohort of cancer patients, with Prof Matthew Cook and [Dr Yuwei Hao](https://orcid.org/0000-0003-3932-3686).
     - Managing a reliable archiving solution to preserve patient data (flow cytometry, WGS, transcriptomics) for both secure storage and input to R&D.
 - Oct 2019 - April 2023: NERC-funded Postdoc in [Prof Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
