@@ -34,7 +34,8 @@ permalink: /cv/
 
 In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatellites) and in the field (sampling invertebrates worldwide).
 
-### Talks
+### Presentation
+- 2025: Poster at **Genomics of Rare Disease** (Hinxton, UK). Feasibility, costs and benefits of remapping genome sequences from GRCh37 to GRCh38 in an Inborn Errors of Immunity cohort.
 - 2022: **international invited talk** for the GRIB group at IMIM-Pompeu Fabra (Barcelona)
 - 2021: 2 talks (UCL CLOE and UCL CBER Seminars, London)
 - 2020: 1 talk (UCL GEE Seminar, London)
