@@ -15,7 +15,11 @@ International perspectives added valuable context. Australia is using automated 
 We need accurate, fast, and interoperable tools that can support clinical diagnostics at scale. Equally important is building better, richer variant interpretation frameworks and ensuring functional data keeps pace with sequencing outputs. It’s an exciting time to be working at the intersection of data, biology, and healthcare—there’s a lot to do, but even more to look forward to.
 
 _Read more:_
+
 1: Kingsmore SF, Wright M, Smith LD, et al. Prequalification of genome-based newborn screening for severe childhood genetic diseases through federated training based on purifying hyperselection. Am J Hum Genet. 2024;111(12):2618-2642. doi:10.1016/j.ajhg.2024.10.021
+
 2: Kaschta, D et al. Evaluating Genome Sequencing Strategies: Trio, Singleton, and Standard Testing in Rare Disease Diagnosis. medRxiv 2024.12.20.24319228
+
 3: Kaplanis et al. Assessment of the variant prioritisation strategy for genomic newborn screening in the Generation Study. doi: 10.1101/2025.03.12.25323745 
+
 4: Best, Stephanie, et al. Reanalysis of genomic data in rare disease: current practice and attitudes among Australian clinical and laboratory genetics services. European Journal of Human Genetics (2024): 1-8.
