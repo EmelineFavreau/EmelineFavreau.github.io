@@ -26,7 +26,7 @@ permalink: /cv/
    - Bash: tmux, vim, sbatch, qsub
    - Database: MySQL (creating new schema, updating current database, extracting data for management and curation)
    - Pipeline optimisation: HPC resource management to tailor Nextflow pipeline nf-core/sarek to a large re-mapping project
-   - Reproducibility: RMarkdown reports, Github/Gitlab version control, Nextflow (nf-core/rnaseq, sarek), Singularity, Docker
+   - Reproducibility: RMarkdown reports, Github/Gitlab version control, Nextflow (nf-core/rnaseq, nf-core/sarek, pgsc_calc), Singularity, Docker
    - _De novo_ genome assembly (PacBio, MinION, Illumina, HiC), genome annotation (genes, lncRNA, TE), variant calling (SNP, SV, copy number variant), GWAS, population genomics, ancestry analysis (plink)
    - RNAseq QC and Transcriptome analyses: DESeq2, WGCNA
    - Machine learning: Support Vector Machine (to predict caste from wasp RNAseq data)
