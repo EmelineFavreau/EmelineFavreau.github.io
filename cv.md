@@ -34,7 +34,7 @@ permalink: /cv/
 
 In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatellites) and in the field (sampling invertebrates worldwide).
 
-### Presentation
+### Presentations
 - 2025: Poster at **Genomics of Rare Disease** (Hinxton, UK). Feasibility, costs and benefits of remapping genome sequences from GRCh37 to GRCh38 in an Inborn Errors of Immunity cohort.
 - 2022: **international invited talk** for the GRIB group at IMIM-Pompeu Fabra (Barcelona)
 - 2021: 2 talks (UCL CLOE and UCL CBER Seminars, London)
@@ -55,6 +55,7 @@ In the past, you could also find me in the wet lab (MinION, RNA, DNA, microsatel
  
 
 ### Teaching
+- [Women in HPC](https://womeninhpc.org/) mentor and mentee between July and November 2025. Sharing technical and career tips with three other HPC users.
 - Nov 2020 and 2021: Teaching "Molecular Tools for Ecologists" to 80 UCL Undergraduate students. Lecture, exam preparation and marking.
 - Nov 2019 - ongoing: mentoring students in Seirian Sumner's lab. 
 	- 1st year Undergraduate Summer project student Jadesada Schneider (bioinformatics)
