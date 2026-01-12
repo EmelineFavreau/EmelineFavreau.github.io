@@ -23,9 +23,7 @@ github_username:  EmelineFavreau
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minimal
 
 analytics:
   provider: google 
@@ -44,8 +42,6 @@ analytics:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-cayman
 
 # force UTF-8 encoding
 encoding: UTF-8
