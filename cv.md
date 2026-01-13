@@ -6,7 +6,7 @@ permalink: /cv/
 
 
 ### Research positions
-- Since Jan 2026: Computational Biologist with [Prof Eoin McKinney]([https://www.immunology.cam.ac.uk/Networkdirectory/eoin]). Handling CG-TIC data from a cohort of patients with Chronic Kidney Disease. Designing and conducting analyses.
+- Since Jan 2026: Computational Biologist with [Prof Eoin McKinney](https://www.immunology.cam.ac.uk/Networkdirectory/eoin). Handling CG-TIC data from a cohort of patients with Chronic Kidney Disease. Designing and conducting analyses.
 - May 2023 - Jan 2026: Bioinformatician in Rare Diseases in [Prof Chris Wallace's lab](http://chr1swallace.github.io/). Handling data from a cohort of patients with Inborn Errors of Immunity (IEI). Designing and conducting analyses for 4 research groups.
 - Oct 2019 - April 2023: NERC-funded Postdoc in [Prof Seirian Sumner's lab](http://www.sumnerlab.co.uk/the-group/emeline-favreau/). Focused on understanding the origins of sociality in the wasps and the bees: comparative transcriptomics and genomics.
 
