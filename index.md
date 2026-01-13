@@ -6,9 +6,9 @@ layout: home
 ---
 
 
-Bioinformatician at University of Cambridge with [Prof Chris Wallace](http://chr1swallace.github.io/), working on the INTREPID project.
+Computational Biologist at University of Cambridge with [Prof Eoin McKinney](https://www.immunology.cam.ac.uk/Networkdirectory/eoin), working on the INTREPID project.
 
-I write pipelines to handle rare disease molecular data and produce reports for clinicians (see my [CV](https://emelinefavreau.github.io/cv/)). I [blogged](https://emelinefavreau.github.io/blog/) about my previous work with animal genomes, transcriptomes, and TAD data. 
+Until recently, I wrote pipelines to handle rare disease molecular data and produce reports for clinicians (see my [CV](https://emelinefavreau.github.io/cv/)). I [blogged](https://emelinefavreau.github.io/blog/) about my previous work with animal genomes, transcriptomes, and TAD data. 
 
 I provide a unique technical-research bridge to support and enhance the research of a large, dynamic group with multiple project heads. I have a track record of improving both research findings and technical operations, from foundational data analyses to advanced pipeline development and interpretation.
 
