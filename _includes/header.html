@@ -1,11 +1,27 @@
 <header>
-  <nav>
+  <!-- SITE TITLE / LOGO -->
+  <div class="site-header-top">
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
+    </h1>
+
+    {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="Logo" class="site-logo">
+    {% endif %}
+
+    {% if site.description %}
+      <p class="site-description">{{ site.description }}</p>
+    {% endif %}
+  </div>
+
+  <!-- NAVIGATION MENU -->
+  <nav class="site-nav-container">
     <ul class="site-nav">
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/cv/' | relative_url }}">CV</a></li>
-      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-      <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-      <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
+      <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+      <li><a href="{{ '/cv/' | relative_url }}" class="{% if page.url == '/cv/' %}active{% endif %}">CV</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a></li>
+      <li><a href="{{ '/blog/' | relative_url }}" class="{% if page.url == '/blog/' %}active{% endif %}">Blog</a></li>
+      <li><a href="{{ '/publications/' | relative_url }}" class="{% if page.url == '/publications/' %}active{% endif %}">Publications</a></li>
     </ul>
   </nav>
 </header>
