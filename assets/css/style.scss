@@ -5,3 +5,52 @@
 h1.post-title {
     display: none;
 }
+/* HEADER STYLING */
+.site-header-top {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 2em;
+}
+
+.site-logo {
+  max-height: 50px;
+  display: block;
+  margin: 10px auto;
+}
+
+.site-description {
+  font-size: 1em;
+  color: #555;
+}
+
+/* NAVIGATION MENU */
+.site-nav-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.site-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  gap: 20px;
+}
+
+.site-nav li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 5px 10px;
+  transition: color 0.3s;
+}
+
+.site-nav li a:hover,
+.site-nav li a.active {
+  color: #ffcc00;  /* highlight for current page */
+  border-bottom: 2px solid #ffcc00;
+}
