@@ -17,8 +17,8 @@ permalink: /cv/
 
 ### Technical
 - Bioinformatics for population genetics & genome/transcriptome wrangling
-   - R current favourite packages: ggplot, tidyverse, adegenet
-   - Python: matplotlib, pandas, numpy
+   - R: ggplot, tidyverse, adegenet
+   - Python: matplotlib, pandas, pyarrow, numpy
    - Bash: tmux, vim, sbatch, qsub
    - Database: MySQL (creating new schema, updating current database, extracting data for management and curation)
    - Pipeline optimisation: HPC resource management to tailor Nextflow pipeline nf-core/sarek to a large re-mapping project
