@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Computational Biologist at University of Cambridge with [Prof Eoin McKinney](https://www.immunology.cam.ac.uk/Networkdirectory/eoin), working on Chronic Kidney Disease within a GSK-Cambridge collaboration called [CG-TIC](https://www.med.cam.ac.uk/cg-tic).
+Computational Biologist at University of Cambridge with [Prof Eoin McKinney](https://www.immunology.cam.ac.uk/Networkdirectory/eoin), working on Chronic Kidney Disease within a GSK-Cambridge collaboration called [CG-TIC](https://www.med.cam.ac.uk/cg-tic). Currently wrangling EHR data.
 
 Until recently, I wrote pipelines to handle rare disease molecular data and produce reports for clinicians (see my [CV](https://emelinefavreau.github.io/cv/)). I [blogged](https://emelinefavreau.github.io/blog/) about my previous work with animal genomes, transcriptomes, and TAD data. 
 
